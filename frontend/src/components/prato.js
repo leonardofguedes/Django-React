@@ -1,3 +1,4 @@
+
 const Prato = ({nome, descricao, valor}) => {
     return (<div>
     {nome},
